@@ -1,0 +1,19 @@
+{
+  "name": "com.xavier.xavhelpto",
+  "version": "4.0.0",
+  "displayName": "XavHelpTo",
+  "description": "A great helper to manage your code, methods based on classes like: \n- Supply => for General Actions\n- Get => for Additions\n- Set => for Modifications\n- Changes => for Mutation\n- Know => for Logical Behaviours",
+  "unity": "2020.1",
+  "keywords": [
+    "tools",
+    "helper",
+    "xavier"
+  ],
+  "author": {
+    "name": "Xavier Thomas Peter Arpa L\u00f3pez",
+    "email": "arpaxavier@gmail.com",
+    "url": "https://ch4b13r.itch.io/"
+  },
+  "type": "library",
+  "hideInEditor": true
+}
