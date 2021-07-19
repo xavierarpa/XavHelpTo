@@ -1,8 +1,8 @@
 {
   "name": "com.xavier.xavhelpto",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "displayName": "XavHelpTo",
-  "description": "A great helper to manage your code, methods based on classes like: \n- Supply => for General Actions\n- Get => for Additions\n- Set => for Modifications\n- Changes => for Mutation\n- Know => for Logical Behaviours",
+  "description": "A great helper to manage your code, Simplify your code problems",
   "unity": "2020.1",
   "keywords": [
     "tools",
